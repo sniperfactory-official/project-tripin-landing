@@ -1,0 +1,31 @@
+{
+  "name": "kicktalk-landing-web",
+  "version": "1.0.0",
+  "description": "KickTalk landing web powered by flowbite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "kicktalk",
+    "landing",
+    "page",
+    "css",
+    "html",
+    "responsive"
+  ],
+  "author": "https://github.com/themesberg/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themesberg/kicktalk-landing-web/issues"
+  },
+  "homepage": "https://github.com/themesberg/kicktalk-landing-web#readme",
+  "dependencies": {
+    "flowbite": "^1.4.7"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
